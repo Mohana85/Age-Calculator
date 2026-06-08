@@ -1,19 +1,19 @@
-#Age Calculator
+# Age Calculator
 
-A simple Age Calculator built using HTML, CSS, and JavaScript.
+A simple web application that calculates a user's age based on their date of birth.
 
-##Features
+## Features
+- Calculate age from date of birth
+- Instant results
+- Displays age in Years, Months, and Days
+- User-friendly interface
 
--Calculate age from date of birth
--Displays age in years
-=Simple and user-friendly interface
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
 
-##Technologies Used
--HTML
--CSS
--JavaScript
-
-##How to Use
-1.Enter your date of birth.
-2.Click the Calculate button.
-3.View your age instantly.
+## How to Use
+1. Enter your date of birth.
+2. Click the calculate age button.
+3. View your age instantly.
