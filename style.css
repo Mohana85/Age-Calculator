@@ -1,0 +1,40 @@
+h1{
+    color:rgb(4, 21, 104);
+    font-size: 32px;
+}
+label{
+    font-size:22px;
+}
+#age{
+    border: 2px solid rgb(173, 176, 233);
+    width:43%;
+    height: 38px;
+    border-radius:5px;
+    background-color: rgb(252, 244, 249);
+}
+.main{
+    background-color: rgb(243, 239, 245);
+    border: 2px solid rgb(220, 212, 212);
+    padding:20px 20px;
+    margin: 5% 27%;
+    height:350px; 
+    text-align: center;
+    border-radius: 20px;
+}
+button{
+    width:22%;
+    height:38px;
+    font-size:20px;
+    color: white;
+    background-color:rgb(142, 142, 239);
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(54, 54, 201);
+}
+p{
+    font-size: 20px;
+    margin-top: 15px;
+    font-weight: bold;
+}
